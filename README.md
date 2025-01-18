@@ -1,1 +1,3 @@
 # Portfolio-website
+
+This is a portfolio website and contains all kinds of information about me and my company. We used here like...
